@@ -1,3 +1,3 @@
 # Caitlin-Portfolio
-Portfolio for Web Development Career
-Caitlin Foley just learning how GitHub works.
+<h1>Portfolio for Web Development Career</h1>
+<p>Caitlin Foley just learning how GitHub works.</p>
